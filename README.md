@@ -9,3 +9,4 @@
 
 - 👨🏻‍💻 I’m an web & app developer
 - 📚 like typescript swift flutter nodejs ..
+  but i have to learn java in china
